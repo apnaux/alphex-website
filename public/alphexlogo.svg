@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="348.345"
+   height="286.0878"
+   viewBox="0 0 92.16628 75.694064"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="alphexlogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.0692834"
+     inkscape:cx="216.96774"
+     inkscape:cy="129.526"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g13955" />
+  <defs
+     id="defs2">
+    <rect
+       x="118.37097"
+       y="99.19355"
+       width="202.35484"
+       height="126.96774"
+       id="rect1046" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-61.874463,-23.116972)">
+    <g
+       transform="scale(0.26458333)"
+       id="text1044"
+       style="font-size:40px;line-height:1.25;font-family:'Optician Sans';-inkscape-font-specification:'Optician Sans';white-space:pre;shape-inside:url(#rect1046)" />
+    <g
+       aria-label="ALPHEX"
+       id="text3714"
+       style="font-size:35.0913px;line-height:1.25;font-family:'Violet Sans';-inkscape-font-specification:'Violet Sans';stroke-width:0.877284">
+      <g
+         id="g13955"
+         transform="matrix(4.314109,0,0,4.314109,-180.50663,-199.37268)">
+        <path
+           id="path8165"
+           style="font-family:'Optician Sans';-inkscape-font-specification:'Optician Sans';stroke-width:3.31572"
+           d="m 237.13672,194.91992 -24.7902,66.31376 h 12.74496 l 34.44061,-26.51709 c 3.9442,8.71129 6.73796,17.67186 10.36439,26.51779 h 14.32422 l -13.25195,-32.32227 -0.006,0.004 -5.7168,-13.85157 0.0371,-0.0215 -8.25195,-20.12305 z m 55.89756,0 -23.91994,19.35545 4.77783,11.0227 17.1911,-12.73705 z m -46.74522,11.93555 h 1.32617 l 6.963,16.59185 -25.32662,20.84958 z"
+           transform="scale(0.26458333)"
+           sodipodi:nodetypes="cccccccccccccccccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>

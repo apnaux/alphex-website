@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="659.92401"
+   height="111.77677"
+   viewBox="0 0 174.60489 29.574271"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="alphexlogo_word.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.0692834"
+     inkscape:cx="369.40628"
+     inkscape:cy="157.58217"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text3714" />
+  <defs
+     id="defs2">
+    <rect
+       x="118.37097"
+       y="99.19355"
+       width="202.35484"
+       height="126.96774"
+       id="rect1046" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.046889,-44.149232)">
+    <g
+       transform="scale(0.26458333)"
+       id="text1044"
+       style="font-size:40px;line-height:1.25;font-family:'Optician Sans';-inkscape-font-specification:'Optician Sans';white-space:pre;shape-inside:url(#rect1046)" />
+    <g
+       aria-label="ALPHEX"
+       id="text3714"
+       style="font-size:35.0913px;line-height:1.25;font-family:'Violet Sans';-inkscape-font-specification:'Violet Sans';stroke-width:0.877284">
+      <g
+         id="g930">
+        <path
+           id="path8165"
+           style="font-family:'Optician Sans';-inkscape-font-specification:'Optician Sans';stroke-width:1.4787"
+           d="M 32.102495,44.149457 21.046889,73.723191 h 5.68383 L 42.090087,61.89745 c 1.758981,3.884946 3.004906,7.881062 4.622173,11.826053 h 6.388126 l -5.90993,-14.414659 -0.0027,0.0017 -2.549503,-6.17734 0.01655,-0.0096 -3.680095,-8.974211 z m 24.870489,0 -10.609533,8.631888 2.130754,4.915758 8.536745,-6.840413 5.838026,-0.880918 0.01917,-5.826315 z m -20.788849,5.322859 h 0.591427 l 3.105267,7.399414 -11.294832,9.29822 z"
+           sodipodi:nodetypes="cccccccccccccccccccccccc" />
+        <path
+           d="M 56.973329,44.149232 V 73.723193 H 79.860903 V 68.440908 L 62.888121,68.399881 V 44.149232 Z"
+           style="font-family:'Optician Sans';-inkscape-font-specification:'Optician Sans';stroke-width:1.4787"
+           id="path8167"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           d="m 80.632503,73.723193 h 5.914784 V 61.597869 h 15.378463 c 5.32331,0 8.87218,-3.489727 8.87218,-8.576449 0,-5.323313 -3.54887,-8.872188 -8.87218,-8.872188 H 80.632503 Z m 5.914784,-24.250648 h 15.378463 c 1.77444,0 2.95739,1.182958 2.95739,2.957396 v 0.887218 c 0,1.774437 -1.18295,2.957396 -2.95739,2.957396 H 86.547287 Z"
+           style="font-family:'Optician Sans';-inkscape-font-specification:'Optician Sans';stroke-width:1.4787"
+           id="path8169" />
+        <path
+           d="M 116.63015,73.723193 V 61.597869 h 17.74438 v 12.125324 h 5.91478 V 44.149232 h -5.91478 V 56.274555 H 116.63015 V 44.149232 h -5.91479 v 29.573961 z"
+           style="font-family:'Optician Sans';-inkscape-font-specification:'Optician Sans';stroke-width:1.4787"
+           id="path8171" />
+        <path
+           d="m 134.37453,44.149232 v 29.573961 h 28.98248 V 68.39988 h -23.0677 v -6.802011 h 17.15291 v -5.323314 h -17.15291 v -6.80201 h 23.0677 v -5.323313 z"
+           style="font-family:'Optician Sans';-inkscape-font-specification:'Optician Sans';stroke-width:1.4787"
+           id="path8173" />
+        <path
+           d="m 162.4698,73.723193 h 7.21604 l 9.04963,-11.060661 9.16793,11.060661 h 7.74838 L 182.75754,58.285586 194.76456,44.149232 h -7.39349 l -8.22156,9.877703 -8.22158,-9.877703 h -7.57092 l 11.82958,14.254649 z"
+           style="font-family:'Optician Sans';-inkscape-font-specification:'Optician Sans';stroke-width:1.4787"
+           id="path8175" />
+      </g>
+    </g>
+  </g>
+</svg>
